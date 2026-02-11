@@ -1,0 +1,7 @@
+{
+  "name": "Visionary - Creator's Visual Asset Brain",
+  "description": "A professional AI image generation suite for creators to define, save, and reuse consistent visual assets like characters, locations, and styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
